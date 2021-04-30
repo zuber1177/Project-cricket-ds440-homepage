@@ -1,0 +1,174 @@
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Home</title>
+    <h1 style="text-align:center;color:black;">CRICKET STATS</h1>
+    <p style="text-align:center;color:red;">WE HAVE A COLLECTION OF ALL ODI MATCHES</p>
+</head>
+<body style="margin:5;background-color:pink;">
+    <table style="width:100%" cellpadding="0" cellspacing="0">
+
+        <tr>
+            <td style="width:130px;vertical-align:top">
+                <!--navigation-->
+                <table border="3" style="border-collapse:collapse">
+
+                    <tr><td class="nav"><a href="https://ds440-sp21-team3b.ist.psu.edu/99notout1.php">99 NOT OUT</a></td></tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/Dismissed_by_the_first_ball_of_a_match.php">
+                                DISMISSED BY THE FIRST BALL
+                            </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/Fewest_ducks_in_career.php">FEWEST DUCKS IN CAREER</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/Hundred_in_last_match.php">HUNDRED IN LAST MATCH</a>
+                        </td>
+                    </tr>
+
+
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/MOST_90_in_a_career.php">MOST 90 IN CAREER </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="">MASTER COMMENTARY</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/mater_t1.php">MASTER TABLE</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/Most_balls_bowled_in_career.php">MOST BALLS BOWLED IN A CAREER</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/Most_byes_conceded_in_an_innings.php">MOST BYES CONCEDED IN AN INNINGS</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/Most_consecutive_ducks.php">MOST CONSECUTIVE DUCKS</a>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/Most_dismissed_for_99.php">MOST DISMISSED FOR 99</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/Most_ducks_in_career.php">MOST DUCKS IN CAREER</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/Most_innings_before_first_duck.php">MOST INNINGS BEOFRE FIRST DUCK</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/Most_runs_conceded_in_an_innings.php">MOST RUNS CONCEDED IN AN INNINGS</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/Most_runs_conceded_in_career.php">MOST RUNS CONCEDED IN A CAREER</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/Most_runs_in_debut_match.php">MOST RUNS IN A DEBUT MATCH</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/No_ducks_in_career.php">NO DUCKS IN CAREER</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/Unusual_dismissals.php">UNUSUAL DISMISSALS</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/fastest_to_10000_runs.php">FASTEST TO 10,000 RUNS</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/fastest_to_1000_runs.php">FATEST TO 1,000 RUNS</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/fastest_to_100_wickets.php">FATEST TO 100 WICKETS</a>
+                        </td>
+                    </tr>
+
+
+                    <tr class="nav">
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/fastest_to_100_wickets.php">FATEST TO 100 WICKETS</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/fastest_to_200_wickets.php">FATEST TO 200 WICKETS</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/fastest_to_5000_runs.php">FATEST TO 5,000 RUNS</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/master_batting.php">SCORE CARD MASTER BATTING</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/master_bowling.php">SCORE CARD MASTER BOWLING</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/wickets_on_first_bowl_in_a_career.php">WICKETS ON FIRST BOWL IN A CAREER</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/youngest_player_to_take_5_wicket_haul.php">YOUGEST PLAYER TO TAKE 5 WICKETS</a>
+                        </td>
+                    </tr>
+
+
+                    <tr>
+                        <td class="nav">
+                            <a href="https://ds440-sp21-team3b.ist.psu.edu/filter.php">SEARCH BOX</a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+
+        </tr>
+    </table>
+
+</body>
+</html>
